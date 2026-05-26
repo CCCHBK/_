@@ -9,6 +9,8 @@ Creative Computing Club House Brooklyn
  
 ## Learning
 
+- [youtube LifelongKindergarten/videos](https://www.youtube.com/@LifelongKindergarten/videos)
+- [Youth Activism and Advocacy](https://www.media.mit.edu/projects/youth-activism-and-advocacy/overview/)
 - [Computing for a Purpose](https://www.media.mit.edu/projects/purpose-based-creative-computing-with-scratch/overview/)
   - [jaleesa-trapp-leveraging-lived-experience](https://mitchresnick.substack.com/p/jaleesa-trapp-leveraging-lived-experience)
   - [Jaleesa Trapp: Leveraging Lived Experience](https://www.youtube.com/watch?v=LbXY1pTO8jo)
@@ -16,4 +18,3 @@ Creative Computing Club House Brooklyn
   - [octostudio](https://octostudio.org/)
 - [Connecting Through Comics](https://www.media.mit.edu/projects/connecting-through-comics-co-creating-a-collage-based-digital-system-for-expressing-complex-emotions-with-and-for-trauma-impacted-youth/overview/)
 - [CoCo — A New Real-Time Co-Creative Platform for Young People](https://www.media.mit.edu/projects/cocobuild/overview/)
-- [Youth Activism and Advocacy](https://www.media.mit.edu/projects/youth-activism-and-advocacy/overview/)
