@@ -18,3 +18,5 @@ Creative Computing Club House Brooklyn
   - [octostudio](https://octostudio.org/)
 - [Connecting Through Comics](https://www.media.mit.edu/projects/connecting-through-comics-co-creating-a-collage-based-digital-system-for-expressing-complex-emotions-with-and-for-trauma-impacted-youth/overview/)
 - [CoCo — A New Real-Time Co-Creative Platform for Young People](https://www.media.mit.edu/projects/cocobuild/overview/)
+
+- [future-sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
