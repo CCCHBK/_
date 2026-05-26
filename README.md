@@ -11,6 +11,7 @@ Creative Computing Club House Brooklyn
 
 - [Computing for a Purpose](https://www.media.mit.edu/projects/purpose-based-creative-computing-with-scratch/overview/)
   - [jaleesa-trapp-leveraging-lived-experience](https://mitchresnick.substack.com/p/jaleesa-trapp-leveraging-lived-experience)
+  - [Jaleesa Trapp: Leveraging Lived Experience](https://www.youtube.com/watch?v=LbXY1pTO8jo)
   - [Scratch coding](https://scratch.mit.edu/)
   - [octostudio](https://octostudio.org/)
 - [Connecting Through Comics](https://www.media.mit.edu/projects/connecting-through-comics-co-creating-a-collage-based-digital-system-for-expressing-complex-emotions-with-and-for-trauma-impacted-youth/overview/)
