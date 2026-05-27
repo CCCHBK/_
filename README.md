@@ -1,13 +1,30 @@
 # CCCHBK
-Creative Computing Club House Brooklyn
+
+## Creative Computing Club House Brooklyn
+
+![vision](images/vision.jpeg)
+
+CCCHBK, Creative Computing Club House Brooklyn, <br/>
+is the embodiment of a vision of learning that is
+
+- project based
+- passsion driven
+- shared with peers
+- playful
+  <br/><br/>
+- coming in persion in free spaces this summer 2026
+- in brooklyn 11201, 11234,
+- and global via the World Wide Web.
 
 ## Grounding
 
 - [Nina Simone: That Blackness](https://www.youtube.com/watch?v=c3ClwX7oyXk) where is the source?
 - [W. E. B. Du Bois, ‘Black America’, 1932](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b229-i058)
   - [source: breakfast-with-du-bois](https://duboiscenter.library.umass.edu/breakfast-with-du-bois/)
- 
+
 ## Learning
+
+![Imagine](images/Imagine-Create-Play-Share-Reflect.png)
 
 - [refections-on-learning](https://johnhenrythompson.com/johnhenrythompson/0-refections-on-learning.html)
 - [play-to-learn](https://johnhenrythompson.com/johnhenrythompson/the-art-of-learning/play-to-learn.html)
@@ -22,3 +39,16 @@ Creative Computing Club House Brooklyn
 - [CoCo — A New Real-Time Co-Creative Platform for Young People](https://www.media.mit.edu/projects/cocobuild/overview/)
 
 - [future-sketches](https://www.media.mit.edu/groups/future-sketches/overview/)
+
+## Inspiration
+
+- [Seymour Papert](https://jht1493.net/johnhenrythompson/0-refections-on-learning.html)
+- [Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/)
+
+![IMG_3807-resisting.jpeg](images/IMG_3807-resisting.jpeg)
+
+![IMG_5174-iron-pixel.jpg](images/IMG_5174-iron-pixel.jpg)
+
+![colorized-jht](images/colorized-jht.jpg)
+
+![83_jt_ibm_pc.jpg](images/83_jt_ibm_pc.jpg)
