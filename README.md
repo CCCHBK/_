@@ -14,7 +14,7 @@ is the embodiment of a vision of learning that is
   <br/><br/>
 - attend in person in free spaces this summer 2026
 - approximate locations: brooklyn 11201, 11234,
-- and global via the World Wide Web.
+- and globally via the World Wide Web.
 
 offered by [John Henry Thompson](https://jht1493.net/johnhenrythompson/)
 
