@@ -9,6 +9,8 @@ Creative Computing Club House Brooklyn
  
 ## Learning
 
+- [the-art-of-learning](https://johnhenrythompson.com/johnhenrythompson/the-art-of-learning/reflections.html)
+- [play-to-learn](https://johnhenrythompson.com/johnhenrythompson/the-art-of-learning/play-to-learn.html)
 - [youtube LifelongKindergarten/videos](https://www.youtube.com/@LifelongKindergarten/videos)
 - [Youth Activism and Advocacy](https://www.media.mit.edu/projects/youth-activism-and-advocacy/overview/)
 - [Computing for a Purpose](https://www.media.mit.edu/projects/purpose-based-creative-computing-with-scratch/overview/)
