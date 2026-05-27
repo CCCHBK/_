@@ -16,6 +16,8 @@ is the embodiment of a vision of learning that is
 - approximate locations: brooklyn 11201, 11234,
 - and global via the World Wide Web.
 
+offered by [John Henry Thompson](https://jht1493.net/johnhenrythompson/)
+
 ## Grounding
 
 - [Nina Simone: That Blackness](https://molab-itp.github.io/moSalon/src/videoplayer/?playlist=c3ClwX7oyXk)
