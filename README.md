@@ -1,4 +1,4 @@
-# _
+# CCCHBK
 Creative Computing Club House Brooklyn
 
 ## Grounding
