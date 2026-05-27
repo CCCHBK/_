@@ -12,8 +12,8 @@ is the embodiment of a vision of learning that is
 - shared with peers
 - playful
   <br/><br/>
-- coming in persion in free spaces this summer 2026
-- in brooklyn 11201, 11234,
+- attend in person in free spaces this summer 2026
+- approximate locations: brooklyn 11201, 11234,
 - and global via the World Wide Web.
 
 ## Grounding
