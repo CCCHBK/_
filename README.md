@@ -48,7 +48,7 @@ offered by [John Henry Thompson](https://jht1493.net/johnhenrythompson/)
 - [Seymour Papert](https://jht1493.net/johnhenrythompson/0-refections-on-learning.html)
 - [Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/)
 
-![IMG_3807-resisting.jpeg](images/IMG_3807-resisting.jpeg)
+[![IMG_3807-resisting.jpeg](images/IMG_3807-resisting.jpeg)](./resisting.md)
 
 ![IMG_5174-iron-pixel.jpg](images/IMG_5174-iron-pixel.jpg)
 
